@@ -1,0 +1,29 @@
+body {
+    background: #f8e8a6;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+    
+}
+
+.croissant-picture {
+    max-width: 100%;
+    margin: 30px auto;
+    border-radius: 5px;
+    display: block;
+}
+
+footer {
+   text-align: center; 
+}
+
+footer a {
+  margin: 0 12px;
+  color: green;
+  
+}
